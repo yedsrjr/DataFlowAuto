@@ -1,0 +1,5 @@
+*/1 * * * * root /usr/local/bin/poetry run python /app/DataFlowPx/dataflowpx/app.py >> /var/log/cron.log 2>&1
+
+                                
+
+
